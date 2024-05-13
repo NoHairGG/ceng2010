@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1.1 (64-bit)
+# SW Build 3900603 on Fri Jun 16 19:31:24 MDT 2023
+# IP Build 3900379 on Sat Jun 17 05:28:05 MDT 2023
+# SharedData Build 3899622 on Fri Jun 16 03:34:24 MDT 2023
+# Start of session at: Wed Oct 25 01:48:15 2023
+# Process ID: 8120
+# Current directory: G:/Users/yui/CENG2010/ceng2010_hw1_q1/ceng2010_hw1_q1.runs/synth_1
+# Command line: vivado.exe -log ceng2010_hw1_q1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ceng2010_hw1_q1.tcl
+# Log file: G:/Users/yui/CENG2010/ceng2010_hw1_q1/ceng2010_hw1_q1.runs/synth_1/ceng2010_hw1_q1.vds
+# Journal file: G:/Users/yui/CENG2010/ceng2010_hw1_q1/ceng2010_hw1_q1.runs/synth_1\vivado.jou
+# Running On: DESKTOP-H1FO6TR, OS: Windows, CPU Frequency: 2904 MHz, CPU Physical cores: 6, Host memory: 34294 MB
+#-----------------------------------------------------------
+source ceng2010_hw1_q1.tcl -notrace
